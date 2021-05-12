@@ -59,7 +59,7 @@ Body{
     position:absolute;
     top:0;
     line-height:1.6;
-    background-color:aqua;
+    background-color:rgba(0,255,255 ,0.6 );
     background-image:url(images/school2.jpg);
     background-position:center;
     background-repeat:no-repeat;
